@@ -1,0 +1,11 @@
+{
+  "name": "x-replacement",
+  "version": "1.0.0",
+  "description": "given a string with X's, replace the X's with 0's and 1's, and return all combinations",
+  "main": "replace.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Sam Hill",
+  "license": "ISC"
+}
